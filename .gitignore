@@ -42,6 +42,8 @@ maintenance-mode/
 tagfield/
 reports/
 siteconfig/
-
 secureassets/
 blog-sortable-categories/
+activedirectory/
+multivaluefield/
+queuedjobs/
